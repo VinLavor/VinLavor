@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a football match analyzer with computer vision**
 
-- 🌱 I’m currently learning **LSTM using Tensorflow and Computer Vision**
+- 🌱 I’m currently learning **LSTM using Tensorflow and also Computer Vision**
 
 - 👯 I’m looking to collaborate on **machine learning and computer vision projects**
 
