@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vinicius Lavor</h1>
-<h3 align="center">I'm currently in the 3rd semester of computer engineering at the Federal University of Ceará</h3>
+<h3 align="center">I'm currently in the 5rd semester of computer engineering at the Federal University of Ceará</h3>
 
 - 🔭 I’m currently working on **a football match analyzer data science project**
 
-- 🌱 I’m currently learning **LSTM using Tensorflow **
+- 🌱 I’m currently learning **LLMs**
 
 - 👯 I’m looking to collaborate on **machine learning and computer vision projects**
 
